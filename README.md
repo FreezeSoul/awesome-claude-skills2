@@ -49,8 +49,13 @@ The most contributed Agent Skills repository, built and maintained together with
 
 |  |  |
 | :-: | :-- |
+<<<<<<< HEAD
 | <a href="https://www.testmuai.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.voltagent.dev/awesome-repo/testmui/testmuai-white.png"><img alt="TestMu AI" src="https://cdn.voltagent.dev/awesome-repo/testmui/testmuai-black.png" width="425"></picture></a> | [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) is an AI-native testing cloud platform built for modern engineering teams. Covering everything from autonomous test creation and fast execution to testing AI agents, chatbots and voice assistants. |
 | <a href="https://zero.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.voltagent.dev/awesome-repo/zero-xyz/zero-dark.png"><img alt="Zero" src="https://cdn.voltagent.dev/awesome-repo/zero-xyz/zero-light.png" width="425"></picture></a> | [Zero](https://zero.xyz) gives your AI access to thousands of tools, APIs, and services, letting it go from prompt to project with no configuration. Instead of asking you to sign up or grab an API key, your AI discovers and uses whatever real service solves the problem right from chat. |
+=======
+| <a href="https://www.testmuai.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.voltagent.dev/awesome-repo/testmui/testmuai-white.png"><img alt="TestMu AI" src="https://cdn.voltagent.dev/awesome-repo/testmui/testmuai-black.png" width="400"></picture></a> | [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) is an AI-native testing cloud platform built for modern engineering teams. Covering everything from autonomous test creation and fast execution to testing AI agents, chatbots and voice assistants. |
+| <a href="https://zero.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.voltagent.dev/awesome-repo/zero-xyz/zero-dark.png"><img alt="Zero" src="https://cdn.voltagent.dev/awesome-repo/zero-xyz/zero-light.png" width="500"></picture></a> | [Zero](https://zero.xyz) gives your AI access to thousands of tools, APIs, and services, letting it go from prompt to project with no configuration. Instead of asking you to sign up or grab an API key, your AI discovers and uses whatever real service solves the problem right from chat. |
+>>>>>>> 0b20955bd4f458ddbc10a549efe717da6976c322
 
 <br />
 
